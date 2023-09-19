@@ -5,7 +5,7 @@ import rectangle from '../../assets/images/Rectangle 146.png'
 
 const Home = () => {
     return (
-        <div className='mt-8 lg:mx-16 w-3/4'>
+        <div className='mt-8 lg:mx-16 w-[60%]'>
             <h2 className="flex items-end gap-8 text-3xl font-bold">View Bookings <img src={phoneIcon} alt="" /></h2>
             <div>
                 <img src={rectangle} alt="" className="mx-auto" />
